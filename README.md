@@ -32,6 +32,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshusuryawanshi/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -50,10 +51,23 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/himanshusuryawanshi/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
