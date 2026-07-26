@@ -53,6 +53,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/himanshusuryawanshi/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -70,4 +72,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
