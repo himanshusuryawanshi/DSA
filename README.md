@@ -64,6 +64,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -73,4 +74,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
