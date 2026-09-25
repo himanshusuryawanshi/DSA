@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/himanshusuryawanshi/DSA/tree/master/0131-palindrome-partitioning) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusuryawanshi/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0226-invert-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusuryawanshi/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/himanshusuryawanshi/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0226-invert-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusuryawanshi/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
@@ -84,5 +87,14 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusuryawanshi/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusuryawanshi/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/himanshusuryawanshi/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
