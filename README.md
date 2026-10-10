@@ -65,12 +65,14 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/himanshusuryawanshi/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/himanshusuryawanshi/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 ## Array
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/himanshusuryawanshi/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 ## Union-Find
 |  |
 | ------- |
