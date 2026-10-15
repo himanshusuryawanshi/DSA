@@ -70,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/himanshusuryawanshi/DSA/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/himanshusuryawanshi/DSA/tree/master/0041-first-missing-positive) |
 | [0200-number-of-islands](https://github.com/himanshusuryawanshi/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
@@ -88,6 +89,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/himanshusuryawanshi/DSA/tree/master/0016-3sum-closest) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [3878-count-good-subarrays](https://github.com/himanshusuryawanshi/DSA/tree/master/3878-count-good-subarrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/himanshusuryawanshi/DSA/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
