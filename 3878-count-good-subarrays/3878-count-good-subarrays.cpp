@@ -7,14 +7,14 @@ public:
         vector<int> right(n, n);
         vector<int> st;
 
-        // Find left boundaries
-        for (int i = 0; i < n; i++) {
+        // Find left boundaries.  6 3 1 4 5 1 2 7
+        for(int i = 0; i < n; i++) {
             while (!st.empty() &&
                    nums[st.back()] < nums[i] &&
                    (nums[st.back()] | nums[i]) == nums[i]) {
                 st.pop_back();
             }
-
+            // -1 0 1 2 
             left[i] = st.empty() ? -1 : st.back();
             st.push_back(i);
         }
