@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshusuryawanshi/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [3878-count-good-subarrays](https://github.com/himanshusuryawanshi/DSA/tree/master/3878-count-good-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0994-rotting-oranges](https://github.com/himanshusuryawanshi/DSA/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/himanshusuryawanshi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/himanshusuryawanshi/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3878-count-good-subarrays](https://github.com/himanshusuryawanshi/DSA/tree/master/3878-count-good-subarrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/himanshusuryawanshi/DSA/tree/master/0041-first-missing-positive) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3878-count-good-subarrays](https://github.com/himanshusuryawanshi/DSA/tree/master/3878-count-good-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3878-count-good-subarrays](https://github.com/himanshusuryawanshi/DSA/tree/master/3878-count-good-subarrays) |
 <!---LeetCode Topics End-->
