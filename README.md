@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/himanshusuryawanshi/DSA/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/himanshusuryawanshi/DSA/tree/master/0146-lru-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,4 +124,16 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/himanshusuryawanshi/DSA/tree/master/0016-3sum-closest) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshusuryawanshi/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshusuryawanshi/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/himanshusuryawanshi/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
